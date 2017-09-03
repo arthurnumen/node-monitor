@@ -23,7 +23,7 @@ myWebsite.on(event, function(response) {
 ## Options
 
 - `website` (* required) - The url of the website to be monitored.
-- `interval` (defaults to 15) - time interval(in minutes) for checking website availability.
+- `interval` (defaults to 5) - time interval(in minutes) for checking website availability.
 
 
 
